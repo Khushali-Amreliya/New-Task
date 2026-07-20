@@ -1,0 +1,1 @@
+module.exports.Products = require("./Products_model")
